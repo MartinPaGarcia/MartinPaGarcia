@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif)]
+![MasterHead](https://i.pinimg.com/originals/b8/2f/28/b82f28a7e9c8fcb3868d3d94652c107c.gif)
 
 <h1 align="center">Hi 👋, I'm Martin Palomares</h1>
 <h3 align= "A passionate developer from Mexico">
